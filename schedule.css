@@ -1,0 +1,28 @@
+table{
+  text-align: left;
+}
+
+tr.stuff{
+  width: 100px;
+  background-color: #6cb4fc;
+}
+
+tr.stuff1{
+  width: 100px;
+  background-color: #004d9b;
+}
+
+th{
+  text-decoration: underline;
+  font-weight: bold;
+}
+/* Color Palette adapted from
+http://www.colourlovers.com/palette/132637/Odd_but_trendy
+*/
+
+body{
+  background-color: #e0eff1;
+}
+td:hover{
+  background-color: #6cb4fc;
+}
